@@ -1,0 +1,31 @@
+{
+  "name": "vessel",
+  "description": "Vessel",
+  "type": "record",
+  "fields": [
+    {
+      "name": "name",
+      "type": "string"
+    },
+    {
+      "name": "mmsi",
+      "type": "string"
+    },
+    {
+      "name": "imo",
+      "type": "string"
+    },
+    {
+      "name": "eni",
+      "type": "string"
+    },
+    {
+      "name": "callsign",
+      "type": "string"
+    },
+    {
+      "name": "shiptype",
+      "type": "string"
+    }
+  ]
+}
